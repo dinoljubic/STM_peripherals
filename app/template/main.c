@@ -1,3 +1,5 @@
+#include <main.h>
+
 int main()
 {
 	int i = 5;
